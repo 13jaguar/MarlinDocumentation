@@ -51,7 +51,7 @@
   //#endif
 
   STATUS_COMBINE_HEATERS
-  All heaters are in a single image, 
+  All heaters are in a single image,
 
 */
 
@@ -316,7 +316,7 @@ var bitmap_converter = function() {
 
         var cpp = '/**\n'
                 + ' * Made with Marlin Bitmap Converter\n'
-                + ' * http://marlinfw.org/tools/u8glib/converter.html\n'
+                + ' * https://marlinfw.org/tools/u8glib/converter.html\n'
                 + ' *\n'
                 + ' * This bitmap from ' + data_source + '\n'
                 + ' */\n';
